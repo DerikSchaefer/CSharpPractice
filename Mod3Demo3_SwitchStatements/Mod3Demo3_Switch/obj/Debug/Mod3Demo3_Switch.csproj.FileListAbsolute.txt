@@ -1,0 +1,8 @@
+C:\MSSA\Mod3Demo3\Mod3Demo3_Switch\obj\Debug\Mod3Demo3_Switch.csproj.AssemblyReference.cache
+C:\MSSA\Mod3Demo3\Mod3Demo3_Switch\obj\Debug\Mod3Demo3_Switch.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Mod3Demo3\Mod3Demo3_Switch\obj\Debug\Mod3Demo3_Switch.csproj.CoreCompileInputs.cache
+C:\MSSA\Mod3Demo3\Mod3Demo3_Switch\bin\Debug\Mod3Demo3_Switch.exe.config
+C:\MSSA\Mod3Demo3\Mod3Demo3_Switch\bin\Debug\Mod3Demo3_Switch.exe
+C:\MSSA\Mod3Demo3\Mod3Demo3_Switch\bin\Debug\Mod3Demo3_Switch.pdb
+C:\MSSA\Mod3Demo3\Mod3Demo3_Switch\obj\Debug\Mod3Demo3_Switch.exe
+C:\MSSA\Mod3Demo3\Mod3Demo3_Switch\obj\Debug\Mod3Demo3_Switch.pdb
