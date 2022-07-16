@@ -1,0 +1,8 @@
+C:\MSSA\Week One\Mod5Demo1\Mod5Demo1\bin\Debug\Mod5Demo1.exe.config
+C:\MSSA\Week One\Mod5Demo1\Mod5Demo1\bin\Debug\Mod5Demo1.exe
+C:\MSSA\Week One\Mod5Demo1\Mod5Demo1\bin\Debug\Mod5Demo1.pdb
+C:\MSSA\Week One\Mod5Demo1\Mod5Demo1\obj\Debug\Mod5Demo1.csproj.AssemblyReference.cache
+C:\MSSA\Week One\Mod5Demo1\Mod5Demo1\obj\Debug\Mod5Demo1.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week One\Mod5Demo1\Mod5Demo1\obj\Debug\Mod5Demo1.csproj.CoreCompileInputs.cache
+C:\MSSA\Week One\Mod5Demo1\Mod5Demo1\obj\Debug\Mod5Demo1.exe
+C:\MSSA\Week One\Mod5Demo1\Mod5Demo1\obj\Debug\Mod5Demo1.pdb
