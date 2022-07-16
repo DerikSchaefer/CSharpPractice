@@ -1,0 +1,8 @@
+C:\MSSA\Week One\Mod4Demo2_Fibonacci\Mod4Demo2_Fibonacci\bin\Debug\Mod4Demo2_Fibonacci.exe.config
+C:\MSSA\Week One\Mod4Demo2_Fibonacci\Mod4Demo2_Fibonacci\bin\Debug\Mod4Demo2_Fibonacci.exe
+C:\MSSA\Week One\Mod4Demo2_Fibonacci\Mod4Demo2_Fibonacci\bin\Debug\Mod4Demo2_Fibonacci.pdb
+C:\MSSA\Week One\Mod4Demo2_Fibonacci\Mod4Demo2_Fibonacci\obj\Debug\Mod4Demo2_Fibonacci.csproj.AssemblyReference.cache
+C:\MSSA\Week One\Mod4Demo2_Fibonacci\Mod4Demo2_Fibonacci\obj\Debug\Mod4Demo2_Fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week One\Mod4Demo2_Fibonacci\Mod4Demo2_Fibonacci\obj\Debug\Mod4Demo2_Fibonacci.csproj.CoreCompileInputs.cache
+C:\MSSA\Week One\Mod4Demo2_Fibonacci\Mod4Demo2_Fibonacci\obj\Debug\Mod4Demo2_Fibonacci.exe
+C:\MSSA\Week One\Mod4Demo2_Fibonacci\Mod4Demo2_Fibonacci\obj\Debug\Mod4Demo2_Fibonacci.pdb
