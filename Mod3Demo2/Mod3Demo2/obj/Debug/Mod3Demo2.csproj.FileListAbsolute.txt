@@ -1,0 +1,8 @@
+C:\MSSA\Mod3Demo2\Mod3Demo2\obj\Debug\Mod3Demo2.csproj.AssemblyReference.cache
+C:\MSSA\Mod3Demo2\Mod3Demo2\obj\Debug\Mod3Demo2.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Mod3Demo2\Mod3Demo2\obj\Debug\Mod3Demo2.csproj.CoreCompileInputs.cache
+C:\MSSA\Mod3Demo2\Mod3Demo2\bin\Debug\Mod3Demo2.exe.config
+C:\MSSA\Mod3Demo2\Mod3Demo2\bin\Debug\Mod3Demo2.exe
+C:\MSSA\Mod3Demo2\Mod3Demo2\bin\Debug\Mod3Demo2.pdb
+C:\MSSA\Mod3Demo2\Mod3Demo2\obj\Debug\Mod3Demo2.exe
+C:\MSSA\Mod3Demo2\Mod3Demo2\obj\Debug\Mod3Demo2.pdb
