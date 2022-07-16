@@ -1,0 +1,8 @@
+C:\MSSA\Week One\Assignment 1.4Video\Assignment1.4\obj\Debug\Assignment1.4.csproj.AssemblyReference.cache
+C:\MSSA\Week One\Assignment 1.4Video\Assignment1.4\obj\Debug\Assignment1.4.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week One\Assignment 1.4Video\Assignment1.4\obj\Debug\Assignment1.4.csproj.CoreCompileInputs.cache
+C:\MSSA\Week One\Assignment 1.4Video\Assignment1.4\bin\Debug\Assignment1.4.exe.config
+C:\MSSA\Week One\Assignment 1.4Video\Assignment1.4\bin\Debug\Assignment1.4.exe
+C:\MSSA\Week One\Assignment 1.4Video\Assignment1.4\bin\Debug\Assignment1.4.pdb
+C:\MSSA\Week One\Assignment 1.4Video\Assignment1.4\obj\Debug\Assignment1.4.exe
+C:\MSSA\Week One\Assignment 1.4Video\Assignment1.4\obj\Debug\Assignment1.4.pdb
