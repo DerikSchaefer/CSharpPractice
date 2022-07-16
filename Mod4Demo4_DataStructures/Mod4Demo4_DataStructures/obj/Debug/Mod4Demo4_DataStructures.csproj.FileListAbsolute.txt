@@ -1,0 +1,8 @@
+C:\MSSA\Week One\Mod4Demo4_DataStructures\Mod4Demo4_DataStructures\bin\Debug\Mod4Demo4_DataStructures.exe.config
+C:\MSSA\Week One\Mod4Demo4_DataStructures\Mod4Demo4_DataStructures\bin\Debug\Mod4Demo4_DataStructures.exe
+C:\MSSA\Week One\Mod4Demo4_DataStructures\Mod4Demo4_DataStructures\bin\Debug\Mod4Demo4_DataStructures.pdb
+C:\MSSA\Week One\Mod4Demo4_DataStructures\Mod4Demo4_DataStructures\obj\Debug\Mod4Demo4_DataStructures.csproj.AssemblyReference.cache
+C:\MSSA\Week One\Mod4Demo4_DataStructures\Mod4Demo4_DataStructures\obj\Debug\Mod4Demo4_DataStructures.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week One\Mod4Demo4_DataStructures\Mod4Demo4_DataStructures\obj\Debug\Mod4Demo4_DataStructures.csproj.CoreCompileInputs.cache
+C:\MSSA\Week One\Mod4Demo4_DataStructures\Mod4Demo4_DataStructures\obj\Debug\Mod4Demo4_DataStructures.exe
+C:\MSSA\Week One\Mod4Demo4_DataStructures\Mod4Demo4_DataStructures\obj\Debug\Mod4Demo4_DataStructures.pdb
