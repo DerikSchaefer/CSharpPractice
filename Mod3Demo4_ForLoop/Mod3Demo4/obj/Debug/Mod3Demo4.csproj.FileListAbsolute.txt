@@ -1,0 +1,8 @@
+C:\MSSA\Mod3Demo4_ForLoop\Mod3Demo4\bin\Debug\Mod3Demo4.exe.config
+C:\MSSA\Mod3Demo4_ForLoop\Mod3Demo4\bin\Debug\Mod3Demo4.exe
+C:\MSSA\Mod3Demo4_ForLoop\Mod3Demo4\bin\Debug\Mod3Demo4.pdb
+C:\MSSA\Mod3Demo4_ForLoop\Mod3Demo4\obj\Debug\Mod3Demo4.csproj.AssemblyReference.cache
+C:\MSSA\Mod3Demo4_ForLoop\Mod3Demo4\obj\Debug\Mod3Demo4.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Mod3Demo4_ForLoop\Mod3Demo4\obj\Debug\Mod3Demo4.csproj.CoreCompileInputs.cache
+C:\MSSA\Mod3Demo4_ForLoop\Mod3Demo4\obj\Debug\Mod3Demo4.exe
+C:\MSSA\Mod3Demo4_ForLoop\Mod3Demo4\obj\Debug\Mod3Demo4.pdb
