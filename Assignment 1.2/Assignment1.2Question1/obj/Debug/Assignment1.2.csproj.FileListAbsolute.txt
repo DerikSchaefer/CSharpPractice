@@ -1,0 +1,16 @@
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2\obj\Debug\Assignment1.2.csproj.AssemblyReference.cache
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2\obj\Debug\Assignment1.2.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2\obj\Debug\Assignment1.2.csproj.CoreCompileInputs.cache
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2\bin\Debug\Assignment1.2.exe.config
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2\bin\Debug\Assignment1.2.exe
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2\bin\Debug\Assignment1.2.pdb
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2\obj\Debug\Assignment1.2.exe
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2\obj\Debug\Assignment1.2.pdb
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2Question1\bin\Debug\Assignment1.2.exe.config
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2Question1\bin\Debug\Assignment1.2.exe
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2Question1\bin\Debug\Assignment1.2.pdb
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2Question1\obj\Debug\Assignment1.2.csproj.AssemblyReference.cache
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2Question1\obj\Debug\Assignment1.2.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2Question1\obj\Debug\Assignment1.2.csproj.CoreCompileInputs.cache
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2Question1\obj\Debug\Assignment1.2.exe
+C:\MSSA\Week One\Assignment 1.2\Assignment1.2Question1\obj\Debug\Assignment1.2.pdb
