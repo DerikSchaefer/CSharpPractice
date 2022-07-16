@@ -1,0 +1,8 @@
+C:\MSSA\Week One\Mod4Demo2_BubbleSort\Demo4Mod2_BubbleSort\bin\Debug\Demo4Mod2_BubbleSort.exe.config
+C:\MSSA\Week One\Mod4Demo2_BubbleSort\Demo4Mod2_BubbleSort\bin\Debug\Demo4Mod2_BubbleSort.exe
+C:\MSSA\Week One\Mod4Demo2_BubbleSort\Demo4Mod2_BubbleSort\bin\Debug\Demo4Mod2_BubbleSort.pdb
+C:\MSSA\Week One\Mod4Demo2_BubbleSort\Demo4Mod2_BubbleSort\obj\Debug\Demo4Mod2_BubbleSort.csproj.AssemblyReference.cache
+C:\MSSA\Week One\Mod4Demo2_BubbleSort\Demo4Mod2_BubbleSort\obj\Debug\Demo4Mod2_BubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week One\Mod4Demo2_BubbleSort\Demo4Mod2_BubbleSort\obj\Debug\Demo4Mod2_BubbleSort.csproj.CoreCompileInputs.cache
+C:\MSSA\Week One\Mod4Demo2_BubbleSort\Demo4Mod2_BubbleSort\obj\Debug\Demo4Mod2_BubbleSort.exe
+C:\MSSA\Week One\Mod4Demo2_BubbleSort\Demo4Mod2_BubbleSort\obj\Debug\Demo4Mod2_BubbleSort.pdb
