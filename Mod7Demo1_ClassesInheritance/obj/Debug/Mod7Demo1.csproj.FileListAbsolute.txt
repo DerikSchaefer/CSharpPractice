@@ -1,0 +1,8 @@
+C:\MSSA\Week Two\Mod7Demo1\obj\Debug\Mod7Demo1.csproj.AssemblyReference.cache
+C:\MSSA\Week Two\Mod7Demo1\obj\Debug\Mod7Demo1.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Two\Mod7Demo1\obj\Debug\Mod7Demo1.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Two\Mod7Demo1\bin\Debug\Mod7Demo1.exe.config
+C:\MSSA\Week Two\Mod7Demo1\bin\Debug\Mod7Demo1.exe
+C:\MSSA\Week Two\Mod7Demo1\bin\Debug\Mod7Demo1.pdb
+C:\MSSA\Week Two\Mod7Demo1\obj\Debug\Mod7Demo1.exe
+C:\MSSA\Week Two\Mod7Demo1\obj\Debug\Mod7Demo1.pdb
