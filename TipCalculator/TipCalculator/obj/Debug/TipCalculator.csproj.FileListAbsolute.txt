@@ -1,0 +1,8 @@
+C:\MSSA\Week Two\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\MSSA\Week Two\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe
+C:\MSSA\Week Two\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\MSSA\Week Two\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.AssemblyReference.cache
+C:\MSSA\Week Two\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Two\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Two\TipCalculator\TipCalculator\obj\Debug\TipCalculator.exe
+C:\MSSA\Week Two\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb
