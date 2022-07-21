@@ -1,8 +1,0 @@
-C:\MSSA\Week Two\Mod10Demo2_Conversion_Destructor\Mod10Demo2_Converting\bin\Debug\Mod10Demo2_Converting.exe.config
-C:\MSSA\Week Two\Mod10Demo2_Conversion_Destructor\Mod10Demo2_Converting\bin\Debug\Mod10Demo2_Converting.exe
-C:\MSSA\Week Two\Mod10Demo2_Conversion_Destructor\Mod10Demo2_Converting\bin\Debug\Mod10Demo2_Converting.pdb
-C:\MSSA\Week Two\Mod10Demo2_Conversion_Destructor\Mod10Demo2_Converting\obj\Debug\Mod10Demo2_Converting.csproj.AssemblyReference.cache
-C:\MSSA\Week Two\Mod10Demo2_Conversion_Destructor\Mod10Demo2_Converting\obj\Debug\Mod10Demo2_Converting.csproj.SuggestedBindingRedirects.cache
-C:\MSSA\Week Two\Mod10Demo2_Conversion_Destructor\Mod10Demo2_Converting\obj\Debug\Mod10Demo2_Converting.csproj.CoreCompileInputs.cache
-C:\MSSA\Week Two\Mod10Demo2_Conversion_Destructor\Mod10Demo2_Converting\obj\Debug\Mod10Demo2_Converting.exe
-C:\MSSA\Week Two\Mod10Demo2_Conversion_Destructor\Mod10Demo2_Converting\obj\Debug\Mod10Demo2_Converting.pdb
