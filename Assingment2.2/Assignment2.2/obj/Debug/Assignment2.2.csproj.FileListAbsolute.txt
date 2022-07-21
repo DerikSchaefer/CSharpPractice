@@ -1,0 +1,8 @@
+C:\MSSA\Week Two\Assingment2.2\Assignment2.2\obj\Debug\Assignment2.2.csproj.AssemblyReference.cache
+C:\MSSA\Week Two\Assingment2.2\Assignment2.2\obj\Debug\Assignment2.2.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Two\Assingment2.2\Assignment2.2\obj\Debug\Assignment2.2.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Two\Assingment2.2\Assignment2.2\bin\Debug\Assignment2.2.exe.config
+C:\MSSA\Week Two\Assingment2.2\Assignment2.2\bin\Debug\Assignment2.2.exe
+C:\MSSA\Week Two\Assingment2.2\Assignment2.2\bin\Debug\Assignment2.2.pdb
+C:\MSSA\Week Two\Assingment2.2\Assignment2.2\obj\Debug\Assignment2.2.exe
+C:\MSSA\Week Two\Assingment2.2\Assignment2.2\obj\Debug\Assignment2.2.pdb
