@@ -1,8 +1,0 @@
-C:\MSSA\Week Two\Mod10Demo1_Memory Allocation\Mod10Demo1_MemoryAllocation\bin\Debug\Mod10Demo1_MemoryAllocation.exe.config
-C:\MSSA\Week Two\Mod10Demo1_Memory Allocation\Mod10Demo1_MemoryAllocation\bin\Debug\Mod10Demo1_MemoryAllocation.exe
-C:\MSSA\Week Two\Mod10Demo1_Memory Allocation\Mod10Demo1_MemoryAllocation\bin\Debug\Mod10Demo1_MemoryAllocation.pdb
-C:\MSSA\Week Two\Mod10Demo1_Memory Allocation\Mod10Demo1_MemoryAllocation\obj\Debug\Mod10Demo1_MemoryAllocation.csproj.AssemblyReference.cache
-C:\MSSA\Week Two\Mod10Demo1_Memory Allocation\Mod10Demo1_MemoryAllocation\obj\Debug\Mod10Demo1_MemoryAllocation.csproj.SuggestedBindingRedirects.cache
-C:\MSSA\Week Two\Mod10Demo1_Memory Allocation\Mod10Demo1_MemoryAllocation\obj\Debug\Mod10Demo1_MemoryAllocation.csproj.CoreCompileInputs.cache
-C:\MSSA\Week Two\Mod10Demo1_Memory Allocation\Mod10Demo1_MemoryAllocation\obj\Debug\Mod10Demo1_MemoryAllocation.exe
-C:\MSSA\Week Two\Mod10Demo1_Memory Allocation\Mod10Demo1_MemoryAllocation\obj\Debug\Mod10Demo1_MemoryAllocation.pdb
