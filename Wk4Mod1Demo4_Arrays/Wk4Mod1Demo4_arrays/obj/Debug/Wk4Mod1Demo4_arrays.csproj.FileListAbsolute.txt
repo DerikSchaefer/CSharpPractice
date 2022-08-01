@@ -1,0 +1,8 @@
+C:\MSSA\Week Four\Wk4Mod1Demo4_Arrays\Wk4Mod1Demo4_arrays\bin\Debug\Wk4Mod1Demo4_arrays.exe.config
+C:\MSSA\Week Four\Wk4Mod1Demo4_Arrays\Wk4Mod1Demo4_arrays\bin\Debug\Wk4Mod1Demo4_arrays.exe
+C:\MSSA\Week Four\Wk4Mod1Demo4_Arrays\Wk4Mod1Demo4_arrays\bin\Debug\Wk4Mod1Demo4_arrays.pdb
+C:\MSSA\Week Four\Wk4Mod1Demo4_Arrays\Wk4Mod1Demo4_arrays\obj\Debug\Wk4Mod1Demo4_arrays.csproj.AssemblyReference.cache
+C:\MSSA\Week Four\Wk4Mod1Demo4_Arrays\Wk4Mod1Demo4_arrays\obj\Debug\Wk4Mod1Demo4_arrays.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Four\Wk4Mod1Demo4_Arrays\Wk4Mod1Demo4_arrays\obj\Debug\Wk4Mod1Demo4_arrays.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Four\Wk4Mod1Demo4_Arrays\Wk4Mod1Demo4_arrays\obj\Debug\Wk4Mod1Demo4_arrays.exe
+C:\MSSA\Week Four\Wk4Mod1Demo4_Arrays\Wk4Mod1Demo4_arrays\obj\Debug\Wk4Mod1Demo4_arrays.pdb
