@@ -1,0 +1,8 @@
+C:\MSSA\Week Four\Wk4Mod2_Methods\Wk4Mod2Demo1_Methods\obj\Debug\Wk4Mod2Demo1_Methods.csproj.AssemblyReference.cache
+C:\MSSA\Week Four\Wk4Mod2_Methods\Wk4Mod2Demo1_Methods\obj\Debug\Wk4Mod2Demo1_Methods.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Four\Wk4Mod2_Methods\Wk4Mod2Demo1_Methods\obj\Debug\Wk4Mod2Demo1_Methods.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Four\Wk4Mod2_Methods\Wk4Mod2Demo1_Methods\bin\Debug\Wk4Mod2Demo1_Methods.exe.config
+C:\MSSA\Week Four\Wk4Mod2_Methods\Wk4Mod2Demo1_Methods\bin\Debug\Wk4Mod2Demo1_Methods.exe
+C:\MSSA\Week Four\Wk4Mod2_Methods\Wk4Mod2Demo1_Methods\bin\Debug\Wk4Mod2Demo1_Methods.pdb
+C:\MSSA\Week Four\Wk4Mod2_Methods\Wk4Mod2Demo1_Methods\obj\Debug\Wk4Mod2Demo1_Methods.exe
+C:\MSSA\Week Four\Wk4Mod2_Methods\Wk4Mod2Demo1_Methods\obj\Debug\Wk4Mod2Demo1_Methods.pdb
