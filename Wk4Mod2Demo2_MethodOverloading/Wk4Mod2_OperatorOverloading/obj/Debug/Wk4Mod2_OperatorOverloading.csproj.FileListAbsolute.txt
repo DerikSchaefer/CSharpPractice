@@ -1,0 +1,8 @@
+C:\MSSA\Week Four\Wk4Mod2Demo2_MethodOverloading\Wk4Mod2_OperatorOverloading\bin\Debug\Wk4Mod2_OperatorOverloading.exe.config
+C:\MSSA\Week Four\Wk4Mod2Demo2_MethodOverloading\Wk4Mod2_OperatorOverloading\bin\Debug\Wk4Mod2_OperatorOverloading.exe
+C:\MSSA\Week Four\Wk4Mod2Demo2_MethodOverloading\Wk4Mod2_OperatorOverloading\bin\Debug\Wk4Mod2_OperatorOverloading.pdb
+C:\MSSA\Week Four\Wk4Mod2Demo2_MethodOverloading\Wk4Mod2_OperatorOverloading\obj\Debug\Wk4Mod2_OperatorOverloading.csproj.AssemblyReference.cache
+C:\MSSA\Week Four\Wk4Mod2Demo2_MethodOverloading\Wk4Mod2_OperatorOverloading\obj\Debug\Wk4Mod2_OperatorOverloading.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Four\Wk4Mod2Demo2_MethodOverloading\Wk4Mod2_OperatorOverloading\obj\Debug\Wk4Mod2_OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Four\Wk4Mod2Demo2_MethodOverloading\Wk4Mod2_OperatorOverloading\obj\Debug\Wk4Mod2_OperatorOverloading.exe
+C:\MSSA\Week Four\Wk4Mod2Demo2_MethodOverloading\Wk4Mod2_OperatorOverloading\obj\Debug\Wk4Mod2_OperatorOverloading.pdb
