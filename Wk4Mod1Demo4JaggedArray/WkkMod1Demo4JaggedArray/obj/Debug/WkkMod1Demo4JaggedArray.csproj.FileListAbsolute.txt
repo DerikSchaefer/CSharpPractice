@@ -1,0 +1,8 @@
+C:\MSSA\Week Four\Wk4Mod1Demo4JaggedArray\WkkMod1Demo4JaggedArray\obj\Debug\WkkMod1Demo4JaggedArray.csproj.AssemblyReference.cache
+C:\MSSA\Week Four\Wk4Mod1Demo4JaggedArray\WkkMod1Demo4JaggedArray\obj\Debug\WkkMod1Demo4JaggedArray.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Four\Wk4Mod1Demo4JaggedArray\WkkMod1Demo4JaggedArray\obj\Debug\WkkMod1Demo4JaggedArray.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Four\Wk4Mod1Demo4JaggedArray\WkkMod1Demo4JaggedArray\bin\Debug\WkkMod1Demo4JaggedArray.exe.config
+C:\MSSA\Week Four\Wk4Mod1Demo4JaggedArray\WkkMod1Demo4JaggedArray\bin\Debug\WkkMod1Demo4JaggedArray.exe
+C:\MSSA\Week Four\Wk4Mod1Demo4JaggedArray\WkkMod1Demo4JaggedArray\bin\Debug\WkkMod1Demo4JaggedArray.pdb
+C:\MSSA\Week Four\Wk4Mod1Demo4JaggedArray\WkkMod1Demo4JaggedArray\obj\Debug\WkkMod1Demo4JaggedArray.exe
+C:\MSSA\Week Four\Wk4Mod1Demo4JaggedArray\WkkMod1Demo4JaggedArray\obj\Debug\WkkMod1Demo4JaggedArray.pdb
