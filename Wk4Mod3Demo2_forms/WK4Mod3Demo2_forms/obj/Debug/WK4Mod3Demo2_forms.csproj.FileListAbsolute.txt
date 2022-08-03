@@ -1,0 +1,11 @@
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\bin\Debug\WK4Mod3Demo2_forms.exe.config
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\bin\Debug\WK4Mod3Demo2_forms.exe
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\bin\Debug\WK4Mod3Demo2_forms.pdb
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\obj\Debug\WK4Mod3Demo2_forms.csproj.AssemblyReference.cache
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\obj\Debug\WK4Mod3Demo2_forms.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\obj\Debug\WK4Mod3Demo2_forms.Properties.Resources.resources
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\obj\Debug\WK4Mod3Demo2_forms.csproj.GenerateResource.cache
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\obj\Debug\WK4Mod3Demo2_forms.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\obj\Debug\WK4Mod3Demo2_forms.exe
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\obj\Debug\WK4Mod3Demo2_forms.pdb
+C:\MSSA\Week Four\Wk4Mod3Demo2_forms\WK4Mod3Demo2_forms\obj\Debug\WK4Mod3Demo2_forms.Form1.resources
