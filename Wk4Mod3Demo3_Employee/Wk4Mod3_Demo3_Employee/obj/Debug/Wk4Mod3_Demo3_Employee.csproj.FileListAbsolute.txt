@@ -1,0 +1,11 @@
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\obj\Debug\Wk4Mod3_Demo3_Employee.csproj.AssemblyReference.cache
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\obj\Debug\Wk4Mod3_Demo3_Employee.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\obj\Debug\Wk4Mod3_Demo3_Employee.Form1.resources
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\obj\Debug\Wk4Mod3_Demo3_Employee.Properties.Resources.resources
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\obj\Debug\Wk4Mod3_Demo3_Employee.csproj.GenerateResource.cache
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\obj\Debug\Wk4Mod3_Demo3_Employee.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\bin\Debug\Wk4Mod3_Demo3_Employee.exe.config
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\bin\Debug\Wk4Mod3_Demo3_Employee.exe
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\bin\Debug\Wk4Mod3_Demo3_Employee.pdb
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\obj\Debug\Wk4Mod3_Demo3_Employee.exe
+C:\MSSA\Week Four\Wk4Mod3Demo3_Employee\Wk4Mod3_Demo3_Employee\obj\Debug\Wk4Mod3_Demo3_Employee.pdb
