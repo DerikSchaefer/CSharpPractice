@@ -177,6 +177,7 @@
             this.txtFName.Name = "txtFName";
             this.txtFName.Size = new System.Drawing.Size(100, 20);
             this.txtFName.TabIndex = 1;
+            this.txtFName.Validating += new System.ComponentModel.CancelEventHandler(this.txtFName_Validating);
             // 
             // txtEid
             // 
@@ -184,6 +185,7 @@
             this.txtEid.Name = "txtEid";
             this.txtEid.Size = new System.Drawing.Size(100, 20);
             this.txtEid.TabIndex = 0;
+            this.txtEid.Validating += new System.ComponentModel.CancelEventHandler(this.txtEid_Validating);
             // 
             // EmpGrid
             // 
