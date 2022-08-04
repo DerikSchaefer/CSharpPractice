@@ -1,0 +1,11 @@
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\bin\Debug\Assignent4.4.exe.config
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\bin\Debug\Assignent4.4.exe
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\bin\Debug\Assignent4.4.pdb
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\obj\Debug\Assignent4.4.csproj.AssemblyReference.cache
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\obj\Debug\Assignent4.4.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\obj\Debug\Assignent4._4.Form1.resources
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\obj\Debug\Assignent4._4.Properties.Resources.resources
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\obj\Debug\Assignent4.4.csproj.GenerateResource.cache
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\obj\Debug\Assignent4.4.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\obj\Debug\Assignent4.4.exe
+C:\MSSA\Week Four\Assignment4.4\Assignent4.4\obj\Debug\Assignent4.4.pdb
