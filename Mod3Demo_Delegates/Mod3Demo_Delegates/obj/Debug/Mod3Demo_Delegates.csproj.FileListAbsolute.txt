@@ -1,0 +1,8 @@
+C:\MSSA\Week Five\Mod3Demo_Delegates\Mod3Demo_Delegates\obj\Debug\Mod3Demo_Delegates.csproj.AssemblyReference.cache
+C:\MSSA\Week Five\Mod3Demo_Delegates\Mod3Demo_Delegates\obj\Debug\Mod3Demo_Delegates.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Five\Mod3Demo_Delegates\Mod3Demo_Delegates\obj\Debug\Mod3Demo_Delegates.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Five\Mod3Demo_Delegates\Mod3Demo_Delegates\bin\Debug\Mod3Demo_Delegates.exe.config
+C:\MSSA\Week Five\Mod3Demo_Delegates\Mod3Demo_Delegates\bin\Debug\Mod3Demo_Delegates.exe
+C:\MSSA\Week Five\Mod3Demo_Delegates\Mod3Demo_Delegates\bin\Debug\Mod3Demo_Delegates.pdb
+C:\MSSA\Week Five\Mod3Demo_Delegates\Mod3Demo_Delegates\obj\Debug\Mod3Demo_Delegates.exe
+C:\MSSA\Week Five\Mod3Demo_Delegates\Mod3Demo_Delegates\obj\Debug\Mod3Demo_Delegates.pdb
