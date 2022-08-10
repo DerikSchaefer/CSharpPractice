@@ -1,0 +1,8 @@
+C:\MSSA\Week Five\Mod4Demo4_InterfacesAdvanced\advancedinterfaces\bin\Debug\advancedinterfaces.exe.config
+C:\MSSA\Week Five\Mod4Demo4_InterfacesAdvanced\advancedinterfaces\bin\Debug\advancedinterfaces.exe
+C:\MSSA\Week Five\Mod4Demo4_InterfacesAdvanced\advancedinterfaces\bin\Debug\advancedinterfaces.pdb
+C:\MSSA\Week Five\Mod4Demo4_InterfacesAdvanced\advancedinterfaces\obj\Debug\advancedinterfaces.csproj.AssemblyReference.cache
+C:\MSSA\Week Five\Mod4Demo4_InterfacesAdvanced\advancedinterfaces\obj\Debug\advancedinterfaces.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Five\Mod4Demo4_InterfacesAdvanced\advancedinterfaces\obj\Debug\advancedinterfaces.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Five\Mod4Demo4_InterfacesAdvanced\advancedinterfaces\obj\Debug\advancedinterfaces.exe
+C:\MSSA\Week Five\Mod4Demo4_InterfacesAdvanced\advancedinterfaces\obj\Debug\advancedinterfaces.pdb
