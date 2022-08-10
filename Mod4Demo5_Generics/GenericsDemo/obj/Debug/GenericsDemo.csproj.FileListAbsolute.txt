@@ -1,0 +1,8 @@
+C:\MSSA\Week Five\Mod4Demo5_Generics\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\MSSA\Week Five\Mod4Demo5_Generics\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\MSSA\Week Five\Mod4Demo5_Generics\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\MSSA\Week Five\Mod4Demo5_Generics\GenericsDemo\obj\Debug\GenericsDemo.csproj.AssemblyReference.cache
+C:\MSSA\Week Five\Mod4Demo5_Generics\GenericsDemo\obj\Debug\GenericsDemo.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Five\Mod4Demo5_Generics\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Five\Mod4Demo5_Generics\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\MSSA\Week Five\Mod4Demo5_Generics\GenericsDemo\obj\Debug\GenericsDemo.pdb
