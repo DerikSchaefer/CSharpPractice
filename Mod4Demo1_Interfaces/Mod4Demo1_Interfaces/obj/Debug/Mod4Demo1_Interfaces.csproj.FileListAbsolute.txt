@@ -1,0 +1,8 @@
+C:\MSSA\Week Five\Mod4Demo1_Interfaces\Mod4Demo1_Interfaces\bin\Debug\Mod4Demo1_Interfaces.exe.config
+C:\MSSA\Week Five\Mod4Demo1_Interfaces\Mod4Demo1_Interfaces\bin\Debug\Mod4Demo1_Interfaces.exe
+C:\MSSA\Week Five\Mod4Demo1_Interfaces\Mod4Demo1_Interfaces\bin\Debug\Mod4Demo1_Interfaces.pdb
+C:\MSSA\Week Five\Mod4Demo1_Interfaces\Mod4Demo1_Interfaces\obj\Debug\Mod4Demo1_Interfaces.csproj.AssemblyReference.cache
+C:\MSSA\Week Five\Mod4Demo1_Interfaces\Mod4Demo1_Interfaces\obj\Debug\Mod4Demo1_Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Five\Mod4Demo1_Interfaces\Mod4Demo1_Interfaces\obj\Debug\Mod4Demo1_Interfaces.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Five\Mod4Demo1_Interfaces\Mod4Demo1_Interfaces\obj\Debug\Mod4Demo1_Interfaces.exe
+C:\MSSA\Week Five\Mod4Demo1_Interfaces\Mod4Demo1_Interfaces\obj\Debug\Mod4Demo1_Interfaces.pdb
