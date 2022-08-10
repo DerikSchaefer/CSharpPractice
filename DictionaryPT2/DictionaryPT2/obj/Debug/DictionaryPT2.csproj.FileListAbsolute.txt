@@ -1,0 +1,8 @@
+C:\MSSA\Week Five\DictionaryPT2\DictionaryPT2\bin\Debug\DictionaryPT2.exe.config
+C:\MSSA\Week Five\DictionaryPT2\DictionaryPT2\bin\Debug\DictionaryPT2.exe
+C:\MSSA\Week Five\DictionaryPT2\DictionaryPT2\bin\Debug\DictionaryPT2.pdb
+C:\MSSA\Week Five\DictionaryPT2\DictionaryPT2\obj\Debug\DictionaryPT2.csproj.AssemblyReference.cache
+C:\MSSA\Week Five\DictionaryPT2\DictionaryPT2\obj\Debug\DictionaryPT2.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Five\DictionaryPT2\DictionaryPT2\obj\Debug\DictionaryPT2.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Five\DictionaryPT2\DictionaryPT2\obj\Debug\DictionaryPT2.exe
+C:\MSSA\Week Five\DictionaryPT2\DictionaryPT2\obj\Debug\DictionaryPT2.pdb
