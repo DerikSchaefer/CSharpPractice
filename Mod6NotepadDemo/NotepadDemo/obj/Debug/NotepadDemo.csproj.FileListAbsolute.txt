@@ -1,0 +1,11 @@
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\bin\Debug\NotepadDemo.exe.config
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\bin\Debug\NotepadDemo.exe
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\bin\Debug\NotepadDemo.pdb
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\obj\Debug\NotepadDemo.csproj.AssemblyReference.cache
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\obj\Debug\NotepadDemo.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\obj\Debug\NotepadDemo.Form1.resources
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\obj\Debug\NotepadDemo.Properties.Resources.resources
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\obj\Debug\NotepadDemo.csproj.GenerateResource.cache
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\obj\Debug\NotepadDemo.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\obj\Debug\NotepadDemo.exe
+C:\MSSA\Week Five\Mod6NotepadDemo\NotepadDemo\obj\Debug\NotepadDemo.pdb
