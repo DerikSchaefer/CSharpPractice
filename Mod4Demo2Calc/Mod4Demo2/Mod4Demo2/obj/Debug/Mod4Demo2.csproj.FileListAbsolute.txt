@@ -1,0 +1,11 @@
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\bin\Debug\Mod4Demo2.exe.config
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\bin\Debug\Mod4Demo2.exe
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\bin\Debug\Mod4Demo2.pdb
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\obj\Debug\Mod4Demo2.csproj.AssemblyReference.cache
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\obj\Debug\Mod4Demo2.csproj.SuggestedBindingRedirects.cache
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\obj\Debug\Mod4Demo2.Form1.resources
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\obj\Debug\Mod4Demo2.Properties.Resources.resources
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\obj\Debug\Mod4Demo2.csproj.GenerateResource.cache
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\obj\Debug\Mod4Demo2.csproj.CoreCompileInputs.cache
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\obj\Debug\Mod4Demo2.exe
+C:\Training\MSSA\20483\PCAD7\Mod4Demo2\obj\Debug\Mod4Demo2.pdb
