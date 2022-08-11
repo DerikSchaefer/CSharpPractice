@@ -1,0 +1,11 @@
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\bin\Debug\Mod6BinarySerialization.exe.config
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\bin\Debug\Mod6BinarySerialization.exe
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\bin\Debug\Mod6BinarySerialization.pdb
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.csproj.AssemblyReference.cache
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.Properties.Resources.resources
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.XMLForm.resources
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.csproj.GenerateResource.cache
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.csproj.CoreCompileInputs.cache
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.exe
+C:\MSSA\Week Five\Mod6BinarySerialization\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.pdb

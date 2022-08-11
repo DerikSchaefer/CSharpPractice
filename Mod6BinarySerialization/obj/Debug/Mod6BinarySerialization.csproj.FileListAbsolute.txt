@@ -1,0 +1,12 @@
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\bin\Debug\Mod6BinarySerialization.exe.config
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\bin\Debug\Mod6BinarySerialization.exe
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\bin\Debug\Mod6BinarySerialization.pdb
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.csproj.AssemblyReference.cache
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.csproj.SuggestedBindingRedirects.cache
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.Form1.resources
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.Properties.Resources.resources
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.csproj.GenerateResource.cache
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.exe
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.pdb
+C:\Training\MSSA\20483\PCAD7\Mod6BinarySerialization\obj\Debug\Mod6BinarySerialization.XMLForm.resources
