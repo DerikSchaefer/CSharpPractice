@@ -1,0 +1,8 @@
+C:\Training\MSSA\20483\PCAD7\LINQDemo\bin\Debug\LINQDemo.exe.config
+C:\Training\MSSA\20483\PCAD7\LINQDemo\bin\Debug\LINQDemo.exe
+C:\Training\MSSA\20483\PCAD7\LINQDemo\bin\Debug\LINQDemo.pdb
+C:\Training\MSSA\20483\PCAD7\LINQDemo\obj\Debug\LINQDemo.csproj.AssemblyReference.cache
+C:\Training\MSSA\20483\PCAD7\LINQDemo\obj\Debug\LINQDemo.csproj.SuggestedBindingRedirects.cache
+C:\Training\MSSA\20483\PCAD7\LINQDemo\obj\Debug\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Training\MSSA\20483\PCAD7\LINQDemo\obj\Debug\LINQDemo.exe
+C:\Training\MSSA\20483\PCAD7\LINQDemo\obj\Debug\LINQDemo.pdb
