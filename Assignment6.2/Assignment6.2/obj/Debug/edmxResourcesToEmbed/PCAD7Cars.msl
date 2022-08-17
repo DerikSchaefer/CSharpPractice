@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PCAD7CarsModelStoreContainer" CdmEntityContainer="PCAD7CarsEntities">
+    <EntitySetMapping Name="Cars">
+      <EntityTypeMapping TypeName="PCAD7CarsModel.Car">
+        <MappingFragment StoreEntitySet="Cars">
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Make" ColumnName="Make" />
+          <ScalarProperty Name="VIN" ColumnName="VIN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

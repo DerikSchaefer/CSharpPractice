@@ -1,0 +1,16 @@
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\bin\Debug\Assignment6.2.exe.config
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\bin\Debug\Assignment6.2.exe
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\bin\Debug\Assignment6.2.pdb
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\bin\Debug\EntityFramework.dll
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\bin\Debug\EntityFramework.xml
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6.2.csproj.AssemblyReference.cache
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6.2.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6._2.Form1.resources
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6._2.Properties.Resources.resources
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6.2.csproj.GenerateResource.cache
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6.2.csproj.CoreCompileInputs.cache
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6.2.csproj.CopyComplete
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6.2.exe
+C:\MSSA\Week6\Assignment6.2\Assignment6.2\obj\Debug\Assignment6.2.pdb
