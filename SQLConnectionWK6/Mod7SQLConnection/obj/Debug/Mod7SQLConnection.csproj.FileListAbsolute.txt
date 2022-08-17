@@ -1,0 +1,16 @@
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\bin\Debug\Mod7SQLConnection.exe.config
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\bin\Debug\Mod7SQLConnection.exe
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\bin\Debug\Mod7SQLConnection.pdb
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\bin\Debug\EntityFramework.dll
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\bin\Debug\EntityFramework.SqlServer.dll
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\bin\Debug\EntityFramework.xml
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\bin\Debug\EntityFramework.SqlServer.xml
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.csproj.AssemblyReference.cache
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.Form1.resources
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.Properties.Resources.resources
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.csproj.GenerateResource.cache
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.csproj.CoreCompileInputs.cache
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.csproj.CopyComplete
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.exe
+C:\MSSA\Week6\SQLConnectionWK6\Mod7SQLConnection\obj\Debug\Mod7SQLConnection.pdb
