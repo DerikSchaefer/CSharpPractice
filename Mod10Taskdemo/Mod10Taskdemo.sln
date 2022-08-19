@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod10Taskdemo", "Mod10Taskdemo.csproj", "{75503094-82F4-45FB-85B0-38D4FB007D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75503094-82F4-45FB-85B0-38D4FB007D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75503094-82F4-45FB-85B0-38D4FB007D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75503094-82F4-45FB-85B0-38D4FB007D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75503094-82F4-45FB-85B0-38D4FB007D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3158E02C-2CF9-4025-8FBD-93CC057A475C}
+	EndGlobalSection
+EndGlobal
