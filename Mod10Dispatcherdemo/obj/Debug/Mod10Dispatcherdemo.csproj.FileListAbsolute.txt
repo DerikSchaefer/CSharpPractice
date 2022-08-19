@@ -1,0 +1,16 @@
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\bin\Debug\Mod10Dispatcherdemo.exe.config
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\bin\Debug\Mod10Dispatcherdemo.exe
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\bin\Debug\Mod10Dispatcherdemo.pdb
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo.csproj.AssemblyReference.cache
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo.csproj.SuggestedBindingRedirects.cache
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\MainWindow.g.cs
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\App.g.cs
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo_MarkupCompile.cache
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo_MarkupCompile.lref
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\MainWindow.baml
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo.g.resources
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo.Properties.Resources.resources
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo.csproj.GenerateResource.cache
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo.csproj.CoreCompileInputs.cache
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo.exe
+C:\Training\MSSA\20483\PCAD7\Mod10Dispatcherdemo\obj\Debug\Mod10Dispatcherdemo.pdb
