@@ -1,0 +1,6 @@
+C:\MSSA\Week7\Week7MathDll\Mathdll\obj\Debug\Mathdll.csproj.AssemblyReference.cache
+C:\MSSA\Week7\Week7MathDll\Mathdll\obj\Debug\Mathdll.csproj.CoreCompileInputs.cache
+C:\MSSA\Week7\Week7MathDll\Mathdll\bin\Debug\Mathdll.dll
+C:\MSSA\Week7\Week7MathDll\Mathdll\bin\Debug\Mathdll.pdb
+C:\MSSA\Week7\Week7MathDll\Mathdll\obj\Debug\Mathdll.dll
+C:\MSSA\Week7\Week7MathDll\Mathdll\obj\Debug\Mathdll.pdb

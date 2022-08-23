@@ -1,0 +1,11 @@
+C:\MSSA\Week7\Week7MathDll\DLLUser\bin\Debug\DLLUser.exe.config
+C:\MSSA\Week7\Week7MathDll\DLLUser\bin\Debug\DLLUser.exe
+C:\MSSA\Week7\Week7MathDll\DLLUser\bin\Debug\DLLUser.pdb
+C:\MSSA\Week7\Week7MathDll\DLLUser\bin\Debug\Mathdll.dll
+C:\MSSA\Week7\Week7MathDll\DLLUser\bin\Debug\Mathdll.pdb
+C:\MSSA\Week7\Week7MathDll\DLLUser\obj\Debug\DLLUser.csproj.AssemblyReference.cache
+C:\MSSA\Week7\Week7MathDll\DLLUser\obj\Debug\DLLUser.csproj.SuggestedBindingRedirects.cache
+C:\MSSA\Week7\Week7MathDll\DLLUser\obj\Debug\DLLUser.csproj.CoreCompileInputs.cache
+C:\MSSA\Week7\Week7MathDll\DLLUser\obj\Debug\DLLUser.csproj.CopyComplete
+C:\MSSA\Week7\Week7MathDll\DLLUser\obj\Debug\DLLUser.exe
+C:\MSSA\Week7\Week7MathDll\DLLUser\obj\Debug\DLLUser.pdb
