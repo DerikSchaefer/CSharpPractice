@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod12_UsingReflections", "Mod12_UsingReflections.csproj", "{1B8E04FA-DDFE-4B5B-8F9D-CD02CEF64EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttributeDemo", "..\CustomAttributeDemo\CustomAttributeDemo.csproj", "{8E2C7019-0A81-4B91-9375-26793BBC184C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8E04FA-DDFE-4B5B-8F9D-CD02CEF64EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8E04FA-DDFE-4B5B-8F9D-CD02CEF64EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8E04FA-DDFE-4B5B-8F9D-CD02CEF64EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8E04FA-DDFE-4B5B-8F9D-CD02CEF64EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2C7019-0A81-4B91-9375-26793BBC184C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2C7019-0A81-4B91-9375-26793BBC184C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2C7019-0A81-4B91-9375-26793BBC184C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2C7019-0A81-4B91-9375-26793BBC184C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6D682F-0447-4C6B-8FA1-F54E9268A460}
+	EndGlobalSection
+EndGlobal

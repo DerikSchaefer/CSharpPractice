@@ -1,0 +1,11 @@
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\bin\Debug\Mod12_UsingReflections.exe.config
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\bin\Debug\Mod12_UsingReflections.exe
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\bin\Debug\Mod12_UsingReflections.pdb
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\obj\Debug\Mod12_UsingReflections.csproj.AssemblyReference.cache
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\obj\Debug\Mod12_UsingReflections.csproj.SuggestedBindingRedirects.cache
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\obj\Debug\Mod12_UsingReflections.csproj.CoreCompileInputs.cache
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\obj\Debug\Mod12_UsingReflections.exe
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\obj\Debug\Mod12_UsingReflections.pdb
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\bin\Debug\CustomAttributeDemo.dll
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\bin\Debug\CustomAttributeDemo.pdb
+C:\Training\MSSA\20483\PCAD7\Mod12_UsingReflections\obj\Debug\Mod12_UsingReflections.csproj.CopyComplete
