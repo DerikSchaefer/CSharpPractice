@@ -1,0 +1,6 @@
+C:\MSSA\Week7\Wk7CrudDLL\CRUD_dll\bin\Debug\CRUD_dll.dll
+C:\MSSA\Week7\Wk7CrudDLL\CRUD_dll\bin\Debug\CRUD_dll.pdb
+C:\MSSA\Week7\Wk7CrudDLL\CRUD_dll\obj\Debug\CRUD_dll.csproj.AssemblyReference.cache
+C:\MSSA\Week7\Wk7CrudDLL\CRUD_dll\obj\Debug\CRUD_dll.csproj.CoreCompileInputs.cache
+C:\MSSA\Week7\Wk7CrudDLL\CRUD_dll\obj\Debug\CRUD_dll.dll
+C:\MSSA\Week7\Wk7CrudDLL\CRUD_dll\obj\Debug\CRUD_dll.pdb
