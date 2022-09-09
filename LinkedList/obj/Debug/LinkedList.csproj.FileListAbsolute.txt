@@ -1,0 +1,8 @@
+C:\Users\derik\OneDrive\Desktop\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\derik\OneDrive\Desktop\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\derik\OneDrive\Desktop\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\derik\OneDrive\Desktop\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\Users\derik\OneDrive\Desktop\LinkedList\obj\Debug\LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\derik\OneDrive\Desktop\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\derik\OneDrive\Desktop\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\derik\OneDrive\Desktop\LinkedList\obj\Debug\LinkedList.pdb
