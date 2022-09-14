@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="css/site.css" rel="stylesheet" type="text/css"/>
+<script>
+    function validatePwd() {
+
+        let val1 = document.forms["registerform"]["pwd1"].value;
+        let val2 = document.forms["registerform"]["pwd2"].value;
+        if (val1 != val2) {
+            alert("Please enter same password value");
+            return false;
+        }
+        return true;
+    }
+</script>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Registration Form</h2>
+        <form name="registerform" method="post" action="register.php" onsubmit="return validatePwd()" >
+            <fieldset>
+                <legend>Enter your details</legend>
+                <div id="fnamefield">
+                    First Name: <input type="text" required autofocus placeholder="Please enter your first name" />
+
+                </div>
+                <div id="lnamefield">
+                    Last Name: <input type="text" required placeholder="Please enter your last name" />
+
+                </div>
+                <div id="emailfield">
+                    Email id: <input type="email" required pattern="^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$" placeholder="Please enter your email" />
+
+                </div>
+                <div id="phnumberfield">
+                    Contact Number: <input type="tel" placeholder="Enter your mobile number" pattern="[0-9]{10}" maxlength="10" />
+
+                </div>
+                <div id="addressfield">
+                    Postal Address: <textarea maxlength="150" placeholder="Enter your postal"></textarea>
+                </div>
+                <div id="agecategory">
+                    Age Category:<input list="agerange" />
+                    <datalist id="agerange">
+                        <option value="18--25" />
+                        <option value="25--45" />
+                    </datalist>
+                </div>
+                <div id="datebirthfield">
+                    Date of Birth <input type="date" />
+                </div>
+                <div id="colorfield">
+                    Pick your favourite color: <input type="color" />
+
+                </div>
+                <div id="pwdfield">
+                    Password:<input type="password" name="pwd1" autocomplete="off" pattern="^[a-zA-Z]\w{4,14}$" required />
+                </div>
+                <div id="cpwdfield">
+                   Confirm Password:<input type="password" name="pwd2" autocomplete="off" required />
+                </div>
+
+
+
+
+            </fieldset>
+            
+            <input type="submit" value="Register Me" />
+            <input type="reset" value="Reset fields"/>
+
+        </form>
+
+    </div>
+
+</body>
+</html>
