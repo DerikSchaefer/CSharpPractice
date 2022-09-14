@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <!--invoking js code from site.js-->
+    <script type="text/javascript" src="js/site.js"></script>
+    <!--inline script-->
+    <script>
+
+        alert('I am learning JS');
+
+    </script>
+</head>
+<body>
+    <!--HTTP verbs-->
+    <!--get method : request from the server-->
+    <!--post method: submit data to the server-->
+    <form method="post" action="/registration/New">
+        <label>First Name: </label>
+        <input type="text" id="txtName" /> <br />
+        <label>Last Name: </label>
+        <input type="text" id="txtLastName" /> <br />
+        <label>Email </label>
+        <input type="email" id="txtEmail" /> <br />
+        <label>Password </label>
+        <input type="password" id="txtPwd" /> <br />
+        <button type="submit">Register me</button>
+        <button type="reset" onclick="">Reset</button>
+
+    </form>
+
+</body>
+</html>
