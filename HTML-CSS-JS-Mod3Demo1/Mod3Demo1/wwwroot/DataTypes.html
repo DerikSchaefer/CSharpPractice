@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <p>
+        Hoisting is JS's default behaviour of moving all the declarations to the top
+        of the current scope.
+        a variable can be declared after it has been used .(ECMA 5)
+    </p>
+    <script>
+        sample = "hello";
+        var sample;
+        var x = 10; // number
+        var name = "deepali"; // string
+        var name = "hello";
+        var flag = false;
+        document.writeln(x);
+        for (var i = 0; i < 5; i++)
+        {
+            document.writeln(i);
+        }
+        document.writeln("outside of loop:" + i);
+        document.writeln("<br/>");
+        // ecma 6
+        let number = 8.9;
+        let number = "dd"; // reassigning is allowed, but redeclare not allowed with diff datatype
+        for (let j = 0; j < 3; j++) {
+            document.writeln(j);
+
+        }
+        document.writeln("outside of loop j:" + j);
+
+        const pi = 3.142;
+
+
+    </script>
+    
+
+
+</body>
+</html>

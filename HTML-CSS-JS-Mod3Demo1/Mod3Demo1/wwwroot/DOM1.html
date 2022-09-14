@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function getVeg() {
+            let veggies = ["Beans", "Squash", "Brocolliii"];
+            let text;
+            text = "Vegetables are:";
+            veggies.forEach(displayVeggies);
+
+            function displayVeggies(veg) {
+                text = text + " , " + veg;
+
+            }
+
+            document.getElementById("veg").innerHTML = text;
+            let p = document.getElementById("veg");
+            p.style.fontWeight = "bold";
+            p.style.color = "brown";
+            document.body.style.backgroundColor = "Cyan";
+        }
+    </script>
+</head>
+<body>
+    <h3>  List of Vegetables</h3>
+    <input type="button" value="Get veg" onclick="getVeg()"/>
+    <p id="veg"> </p>
+</body>
+</html>
